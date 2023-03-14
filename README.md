@@ -24,7 +24,9 @@ git clone https://github.com/limybox2016/instagramstalker/
 
 ```bash
 cd C:\Users\limybox2016\Documents\GitHub\instagram stalker
-
+```
+Replace the data in the file collect.py (line 13)
+```bash
 py collect.py
 
 ```
