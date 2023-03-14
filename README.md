@@ -1,7 +1,7 @@
 # instagram stalker
 
 Instagram Data Collection Script
-This script collects user data from Instagram, including their followers and subscriptions, and saves the data to text files and a JSON file. It also creates a directory for each user's data and saves the files to that directory.
+This script collects user data from Instagram, including their followers and subscriptions, and saves the data to text files. It also creates a directory for each user's data and saves the files to that directory.
 
 ## Getting Started
 ### Prerequisites
